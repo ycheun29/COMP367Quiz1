@@ -1,0 +1,2 @@
+Git is a version control system that gives user to manage and keep track of the history of source code. 
+GitHub is a web-based repository hosting service that provides user to manage the git repositories.

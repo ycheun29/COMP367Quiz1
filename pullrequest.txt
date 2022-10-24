@@ -1,0 +1,2 @@
+Pull request tell others about the changes that it will pushed to the branch in the repo on GitHub.
+After the pull request is opened, we can talk and review the changes with all the collaborator and give follow up commits before the changed merge with the base branch.
